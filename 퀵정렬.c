@@ -55,3 +55,4 @@ void show()
         printf("%d ", data[i]);
     }
 }
+//O(N*logN)
